@@ -1,0 +1,4 @@
+class TestSum
+{
+	public	TestSum(){}
+}
